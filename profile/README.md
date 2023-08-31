@@ -8,8 +8,10 @@ O ReuNew é a solução definitiva para aprimorar a sua produtividade e eficiên
 - Colaborar com equipes de maneira eficaz.
 - Definir metas e prazos com clareza.
 - Aproveitar uma interface amigável e funcional.
+- Visualizar gráficos e estatísticas totalmente interativas e claras.
+- Realizar uma lista to-do para uma equipe ou para você mesmo.
 
-Deixe o ReuNew revolucionar a maneira como você planeja, organiza e alcança seus objetivos. Simplifique suas tarefas diárias e aumente sua produtividade com a nossa plataforma poderosa e versátil. Comece a usar o ReuNew hoje mesmo e experimente uma nova era de eficiência em suas mãos.
+Deixe o ReuNew revolucionar a maneira como você planeja, organiza e alcança seus objetivos. Simplifique e controle suas tarefas diárias e aumente sua produtividade com a nossa plataforma poderosa e versátil. Comece a usar o ReuNew hoje mesmo e experimente uma nova era de eficiência em suas mãos.
 
 ## Como Usar
 
