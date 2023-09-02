@@ -17,7 +17,7 @@ Deixe o ReuNew revolucionar a maneira como você planeja, organiza e alcança se
 
  [Veja os nossos repositórios](https://github.com/orgs/ReuNew/repositories)
 
-- Clique no link acima para entrar no nosso repositório e ver o desenvolvimento e andamento do projeto 📰, como a sua documentação, projeção, prototipação, e seu produto final.
+Clique no link acima para entrar no nosso repositório e ver o desenvolvimento e andamento do projeto 📰, como a sua documentação, projeção, prototipação, e seu produto final.
 
 ---
 
